@@ -1,5 +1,6 @@
 import argparse
 import hex2bin
+import bin2hex
 
 parser = argparse.ArgumentParser(description='Convert hex to bin or bin to hex')
 parser.add_argument(
@@ -20,4 +21,4 @@ args = parser.parse_args()    # Теперь в args лежит наше чис�
 if args.hex is not None:
     hex2bin.convert(args.hex)
 else:
-    pass
+    bin2hex.convert(args.bin)
