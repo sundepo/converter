@@ -4,5 +4,5 @@ This utility allows you to convert numbers from hexadecimal to binary and from b
 
 ### Arguments available:
 
-* --hex2bin - from hexadecimal to binary
-* --bin2hex - from binary to hexadecimal
+* --hex - from hexadecimal to binary
+* --bin - from binary to hexadecimal
