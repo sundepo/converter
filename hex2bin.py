@@ -48,3 +48,7 @@ def convert(hex):
         pass
     finally:    # выполняется в конце в любом случае
         pass
+
+
+# Новыая строка в hex2bin 1
+# Новыая строка в hex2bin 2
