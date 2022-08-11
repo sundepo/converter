@@ -3,6 +3,9 @@ import hex2bin
 import bin2hex
 
 
+## Чек комменты в комиите
+
+
 ## New line 11
 ## New line 22
 # Новая строка 1
@@ -37,3 +40,5 @@ else:
     ## New line in end of file 22
 
 # 2 Чек комменты в коммите
+
+# Это должен быть отдельный прекоммит
