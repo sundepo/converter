@@ -35,3 +35,5 @@ else:
 
     ## New line in end of file 11
     ## New line in end of file 22
+
+# 2 Чек комменты в коммите
